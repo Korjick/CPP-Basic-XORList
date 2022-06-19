@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to C++ XOR List 👋</h1>
+<img alt="Version" src="https://miro.medium.com/max/880/1*XPu_eMJVmbO3GAC1acszYA.png" />
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
