@@ -1,31 +1,20 @@
-<h1 align="center">Welcome to C++ XOR List 👋</h1>
-<img alt="Version" src="https://miro.medium.com/max/880/1*XPu_eMJVmbO3GAC1acszYA.png" />
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
+# XOR List | C++
 
-> University project presenting an inplementation of XOR Lost in C++
+University project presenting an inplementation of XOR Lost in C++
 
-### 🏠 [Homepage](https://github.com/Korjick/CPP-Basic-XORList)
 
-## Install
+## Deployment
 
 ```sh
 g++ main.cpp -o main.exe
 ```
 
-## Usage
+## License
 
-```sh
-main.exe
-```
+[MIT](https://choosealicense.com/licenses/mit/)
 
-## Author
 
-👤 **Bulat Din**
+## Demo
 
-* Website: https://github.com/Korjick
-* Github: [@Korjick](https://github.com/Korjick)
+![Description](https://camo.githubusercontent.com/6d41428d65202254c3211c3655b2fb892813afa57e63dba5b111c357f65ac98d/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3838302f312a5850755f654d4a566d624f33474143316163737a59412e706e67)
+
